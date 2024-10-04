@@ -1,0 +1,5 @@
+1. Можно взять весь проект triangleTests, а можно только сам тест homwork4_SeleniumGrid.
+2. geckodriver, chromedriver и msedgedriver - выкладываю чтобы лишний раз не сёрфить, а скачать с моего репозитория
+3. в start_sele_grid.bat нам необходимо указать свой путь, откуда будет запускаться selenium-server-4.25.0.jar и наши драйвера.
+
+
